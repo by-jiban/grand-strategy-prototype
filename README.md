@@ -30,3 +30,7 @@ Open the project folder in Godot 4.7 and press F5.
 
 ## Credits
 Made with [Godot Engine](https://godotengine.org).
+
+## Notes
+- Map borders and country data are **simplified placeholders for gameplay prototyping**. They are not accurate or authoritative, and no political statement is intended.
+- All numbers in `data/countries.json` are rough sample values and will change.
