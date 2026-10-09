@@ -1,0 +1,19 @@
+# Godot 4+
+.godot/
+/android/
+
+# Exports / builds (these are big and rebuildable)
+builds/
+*.apk
+*.aab
+*.exe
+*.pck
+*.x86_64
+
+# Secrets
+export_credentials.cfg
+
+# Junk
+.DS_Store
+Thumbs.db
+*~

@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://brt2hc75624iw"]
+
+[ext_resource type="Script" uid="uid://cwcnwe6n0yvht" path="res://main.gd" id="1_e2o6t"]
+[ext_resource type="Texture2D" uid="uid://bhwui46v6apcq" path="res://map/map.png" id="2_feb5d"]
+
+[node name="main" type="Node2D" unique_id=88920677]
+script = ExtResource("1_e2o6t")
+
+[node name="MapSprite" type="Sprite2D" parent="." unique_id=1444729034]
+texture = ExtResource("2_feb5d")
+centered = false
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1060949480]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=18000957]
+
+[node name="InfoLabel" type="Label" parent="CanvasLayer" unique_id=140661456]
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_font_sizes/font_size = 32

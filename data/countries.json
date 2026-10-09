@@ -1,0 +1,278 @@
+{
+  "Nepal": {
+    "population": 30000000,
+    "gdp": 40,
+    "resources": {
+      "money": 20.0,
+      "manpower": 15000
+    },
+    "daily_change": {
+      "money": 0.4,
+      "manpower": 90
+    }
+  },
+  "India": {
+    "population": 1430000000,
+    "gdp": 3900,
+    "resources": {
+      "money": 1950.0,
+      "manpower": 715000
+    },
+    "daily_change": {
+      "money": 39.0,
+      "manpower": 4290
+    }
+  },
+  "Sri Lanka": {
+    "population": 22000000,
+    "gdp": 85,
+    "resources": {
+      "money": 42.5,
+      "manpower": 11000
+    },
+    "daily_change": {
+      "money": 0.8,
+      "manpower": 66
+    }
+  },
+  "Pakistan": {
+    "population": 240000000,
+    "gdp": 340,
+    "resources": {
+      "money": 170.0,
+      "manpower": 120000
+    },
+    "daily_change": {
+      "money": 3.4,
+      "manpower": 720
+    }
+  },
+  "Bangladesh": {
+    "population": 173000000,
+    "gdp": 450,
+    "resources": {
+      "money": 225.0,
+      "manpower": 86500
+    },
+    "daily_change": {
+      "money": 4.5,
+      "manpower": 519
+    }
+  },
+  "Bhutan": {
+    "population": 780000,
+    "gdp": 3,
+    "resources": {
+      "money": 1.5,
+      "manpower": 390
+    },
+    "daily_change": {
+      "money": 0.0,
+      "manpower": 2
+    }
+  },
+  "Myanmar": {
+    "population": 54000000,
+    "gdp": 65,
+    "resources": {
+      "money": 32.5,
+      "manpower": 27000
+    },
+    "daily_change": {
+      "money": 0.7,
+      "manpower": 162
+    }
+  },
+  "Thailand": {
+    "population": 71000000,
+    "gdp": 540,
+    "resources": {
+      "money": 270.0,
+      "manpower": 35500
+    },
+    "daily_change": {
+      "money": 5.4,
+      "manpower": 213
+    }
+  },
+  "Laos": {
+    "population": 7500000,
+    "gdp": 15,
+    "resources": {
+      "money": 7.5,
+      "manpower": 3750
+    },
+    "daily_change": {
+      "money": 0.1,
+      "manpower": 22
+    }
+  },
+  "Cambodia": {
+    "population": 17000000,
+    "gdp": 47,
+    "resources": {
+      "money": 23.5,
+      "manpower": 8500
+    },
+    "daily_change": {
+      "money": 0.5,
+      "manpower": 51
+    }
+  },
+  "China": {
+    "population": 1410000000,
+    "gdp": 18000,
+    "resources": {
+      "money": 9000.0,
+      "manpower": 705000
+    },
+    "daily_change": {
+      "money": 180.0,
+      "manpower": 4230
+    }
+  },
+  "North korea": {
+    "population": 26000000,
+    "gdp": 25,
+    "resources": {
+      "money": 12.5,
+      "manpower": 13000
+    },
+    "daily_change": {
+      "money": 0.2,
+      "manpower": 78
+    }
+  },
+  "South korea": {
+    "population": 51000000,
+    "gdp": 1800,
+    "resources": {
+      "money": 900.0,
+      "manpower": 25500
+    },
+    "daily_change": {
+      "money": 18.0,
+      "manpower": 153
+    }
+  },
+  "Japan": {
+    "population": 123000000,
+    "gdp": 4200,
+    "resources": {
+      "money": 2100.0,
+      "manpower": 61500
+    },
+    "daily_change": {
+      "money": 42.0,
+      "manpower": 369
+    }
+  },
+  "Vietnam": {
+    "population": 100000000,
+    "gdp": 450,
+    "resources": {
+      "money": 225.0,
+      "manpower": 50000
+    },
+    "daily_change": {
+      "money": 4.5,
+      "manpower": 300
+    }
+  },
+  "Taiwan": {
+    "population": 23000000,
+    "gdp": 800,
+    "resources": {
+      "money": 400.0,
+      "manpower": 11500
+    },
+    "daily_change": {
+      "money": 8.0,
+      "manpower": 69
+    }
+  },
+  "Mongolia": {
+    "population": 3500000,
+    "gdp": 20,
+    "resources": {
+      "money": 10.0,
+      "manpower": 1750
+    },
+    "daily_change": {
+      "money": 0.2,
+      "manpower": 10
+    }
+  },
+  "Malaysia": {
+    "population": 34000000,
+    "gdp": 430,
+    "resources": {
+      "money": 215.0,
+      "manpower": 17000
+    },
+    "daily_change": {
+      "money": 4.3,
+      "manpower": 102
+    }
+  },
+  "Indonesia": {
+    "population": 280000000,
+    "gdp": 1400,
+    "resources": {
+      "money": 700.0,
+      "manpower": 140000
+    },
+    "daily_change": {
+      "money": 14.0,
+      "manpower": 840
+    }
+  },
+  "Philippines": {
+    "population": 115000000,
+    "gdp": 440,
+    "resources": {
+      "money": 220.0,
+      "manpower": 57500
+    },
+    "daily_change": {
+      "money": 4.4,
+      "manpower": 345
+    }
+  },
+  "Papua New Guinea": {
+    "population": 10000000,
+    "gdp": 32,
+    "resources": {
+      "money": 16.0,
+      "manpower": 5000
+    },
+    "daily_change": {
+      "money": 0.3,
+      "manpower": 30
+    }
+  },
+  "Australia": {
+    "population": 27000000,
+    "gdp": 1800,
+    "resources": {
+      "money": 900.0,
+      "manpower": 13500
+    },
+    "daily_change": {
+      "money": 18.0,
+      "manpower": 81
+    }
+  },
+  "New Zealand": {
+    "population": 5200000,
+    "gdp": 250,
+    "resources": {
+      "money": 125.0,
+      "manpower": 2600
+    },
+    "daily_change": {
+      "money": 2.5,
+      "manpower": 16
+    }
+  }
+}
